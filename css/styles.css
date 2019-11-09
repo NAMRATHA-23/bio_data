@@ -1,0 +1,31 @@
+<style>
+
+.nam{
+  border-radius: 100%;
+}
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 5%
+}
+body{
+  background-color: #faf5ef;
+}
+
+h1 {
+  color: #444444
+}
+
+h2 {
+  color: #444444
+}
+
+h3 {
+  color: #444444
+}
+
+</style>
